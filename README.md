@@ -1,1 +1,1 @@
-# datamining-assignments
+# Assignment for data mining course
